@@ -1,0 +1,19 @@
+@media (max-width: 576px) {
+
+.process-circle h5 {
+    font-weight: 500;
+    margin-top: 25px;
+    color: #0b2c48;
+    font-size: 25px;
+}
+
+.process-section h2{
+
+    font-size: 30px;
+}
+
+.process-circle {
+    width: 99%;
+}
+
+}
